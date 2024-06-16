@@ -19,7 +19,7 @@ A Python script that generates strong, secure passwords. These passwords are sui
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/NagaBharadwaj/password-generator.git
    cd password-generator
 
 2. **Run the Script**
